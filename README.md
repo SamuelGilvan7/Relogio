@@ -40,12 +40,16 @@ Este projeto foi fundamental para consolidar boas práticas de desenvolvimento w
 ```
 ## 🛠️ Como Executar
 Clone este repositório:
-```
 
+
+```
 Bash
+
 git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
-Navegue até a pasta do projeto e abra o arquivo index.html em seu navegador de preferência.
+
+
 
 ```
+Navegue até a pasta do projeto e abra o arquivo index.html em seu navegador de preferência.
 
 ⭐ Se você gostou desse projeto de estudos, sinta-se à vontade para deixar uma estrela!
